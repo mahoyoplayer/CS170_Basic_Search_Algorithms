@@ -1,7 +1,4 @@
-```md
-## Requirements
-- Python 3.x
-
-## Run
-```bash
-python main.py
+# Run With 
+   ```bash
+      python main.py
+   ```
